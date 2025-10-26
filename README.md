@@ -1,4 +1,4 @@
-# Reinforcement Learning Maze Tutorial
+# Markov's Decision Process Maze Walkthrough
 
 A simple reinforcement learning project that implements a custom Maze environment and demonstrates fundamental RL concepts.
 
